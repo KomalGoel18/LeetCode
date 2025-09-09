@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KomalGoel18/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/KomalGoel18/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KomalGoel18/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KomalGoel18/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
